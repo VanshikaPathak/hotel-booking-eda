@@ -1,0 +1,3 @@
+Hotel Booking Analysis - (EDA)
+The hotel industry operates in a highly competitive environment, making it imperative for hoteliers to continuously adapt and innovate to remain ahead. A critical aspect of maintaining a competitive edge is understanding customer behavior and booking trends. This can be achieved through comprehensive Exploratory Data Analysis (EDA) of hotel booking data, which provides valuable insights into customer preferences, booking patterns, and potential areas for strategic improvement. This analysis aims to reveal key aspects of customer behavior and hotel booking trends, enabling hotels to enhance their business outcomes.
+
